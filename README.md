@@ -19,10 +19,9 @@
 
 ####Instructions for iOS Certificate Creation and Signing
   - [Best Video Instructions on YouTube](https://www.youtube.com/watch?v=Xh2nnjttOwo)
-
   - [Best PDF Instructions](guide-to-iOS-certificate-creation.pdf)
   
-  - Secondary Sources for More Info:
+  - *Secondary Sources for More Info*:
     - https://www.youtube.com/watch?v=HlRI30F6-Ek
     
     - https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Troubleshooting/Troubleshooting.html#//apple_ref/doc/uid/TP40012582-CH5-SW2
