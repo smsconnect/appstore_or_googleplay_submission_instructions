@@ -1,5 +1,7 @@
-*** Instructions on how to create the certificates and gather the necessary files to submit applications to the Apple Appstore and the Google Play Store ***
+Instructions on how to create the certificates and gather the necessary files to submit applications to the Apple Appstore and the Google Play Store.
 
+</br>
+</br>
 ##Apple Appstore Submission
 ####Required Components
 1. A 'p12' **distribution** certificate \***instructions below** (important that it is a **distribution** certificate if you are actually submitting to the appstore)
@@ -39,7 +41,8 @@
    
   - **Password**: *unique to your account unless you make Apple ID for smsconnect* 
   
-
+</br>
+</br>
 ##Google Play Submission 
 ####Required Components
 1. A 'p12' certificate \***instructions below**
