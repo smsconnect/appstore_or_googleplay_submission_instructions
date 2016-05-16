@@ -18,6 +18,15 @@
 7. Screenshots of the app for each device resolution that Apple requires (take screenshots with available iOS devices and then use photoshop to crop to different device resolutions that we don't have --- [check here for specific device resolutions](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Appendices/Properties.html#//apple_ref/doc/uid/TP40011225-CH26-SW2)
 
 ####Instructions for iOS Certificate Creation and Signing
-  - [Best Video Instructions](https://www.youtube.com/watch?v=Xh2nnjttOwo){:target="_blank"}
+  - [Best Video Instructions on YouTube](https://www.youtube.com/watch?v=Xh2nnjttOwo)
+
   - [Best PDF Instructions](guide-to-iOS-certificate-creation.pdf)
+  
+  - Secondary Sources for More Info:
+    - https://www.youtube.com/watch?v=HlRI30F6-Ek
+    
+    - https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Troubleshooting/Troubleshooting.html#//apple_ref/doc/uid/TP40012582-CH5-SW2
+    
+    - https://appfurnace.zendesk.com/entries/22379207-How-do-I-create-p12-and-mobileprovision-files-for-iPhone-publishing-
+
 
