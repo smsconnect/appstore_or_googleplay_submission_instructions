@@ -57,7 +57,7 @@ Instructions on how to create the certificates and gather the necessary files to
 ####Instructions for Android Certificate Creation and Signing
   - [Instructions for creation on a Mac](googleplay_android/android-keystore-creation_mac.png)
   
-  - [Instructions for creation on using Windows](googleplay_android/android-keystore-creation_windows.png)
+  - [Instructions for creation using Windows](googleplay_android/android-keystore-creation_windows.png)
 
 ####Developer Details
   - **URL**: https://play.google.com/apps/publish/
